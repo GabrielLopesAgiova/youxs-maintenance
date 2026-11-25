@@ -1,0 +1,16 @@
+# Go
+*.exe
+*.test
+*.out
+vendor/
+
+# Environment
+.env*
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
